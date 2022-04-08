@@ -1,7 +1,7 @@
 # data-analytics-portfolio
 
-##SQL
+## SQL
 
-##Statistics
+## Statistics
 
-##Visual Communications
+## Visual Communications
